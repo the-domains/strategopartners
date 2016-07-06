@@ -1,0 +1,28 @@
+name: Strategopartners
+favicon: null
+layout_spectrum: 0.13951258128508925
+typography_spectrum: 0.5313813521061093
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6768186578992754
+  lightness: 0.9148956276476383
+  saturation: 0.5893332168925554
+  rhythmicContrast: 0.7805714358109981
+purpose: []
